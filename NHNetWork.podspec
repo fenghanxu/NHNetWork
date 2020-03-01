@@ -32,11 +32,11 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
   
   # 头文件访问路径
-  s.public_header_files = ["Source/**/*.h","Source/*/**/*.h","Source/*/*/**/*.h","Source/*/*/*/**/*.h"]
+  s.public_header_files = ["NHNetWork/**/*.h","NHNetWork/*/**/*.h","NHNetWork/*/*/**/*.h","NHNetWork/*/*/*/**/*.h"]
   
   #文件访问路径
   #   source_files = ["Source/ScreensView/ScreensView.h"]   不行用这个
-  s.source_files = ["Source/**","Source/*/**","Source/*/*/**","Source/*/*/*/**"]
+  s.source_files = ["NHNetWork/**","NHNetWork/*/**","NHNetWork/*/*/**","NHNetWork/*/*/*/**"]
   
   #图片访问路径
   s.resource_bundles = {

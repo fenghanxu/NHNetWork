@@ -7,7 +7,8 @@
 //
 
 #import "NHNETWORKViewController.h"
-#import "NHNetWork.h"
+#import "NHNETWORKHeader.h"
+#import "UIImageSize.h"
 
 @interface NHNETWORKViewController ()
 
@@ -19,8 +20,8 @@
 {
     [super viewDidLoad];
   self.view.backgroundColor = [UIColor whiteColor];
-  [[ScreensView new] isNotchScreen];
-  
+
+  [UIImage createImageWithColor:[UIColor orangeColor]];
 }
 
 

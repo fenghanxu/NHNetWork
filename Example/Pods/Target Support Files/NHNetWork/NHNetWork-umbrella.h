@@ -10,8 +10,9 @@
 #endif
 #endif
 
-#import "NHNetWork.h"
-#import "ScreensView.h"
+#import "NHNETWORKHeader.h"
+#import "UIImage+FHXImage.h"
+#import "UIImageSize.h"
 
 FOUNDATION_EXPORT double NHNetWorkVersionNumber;
 FOUNDATION_EXPORT const unsigned char NHNetWorkVersionString[];

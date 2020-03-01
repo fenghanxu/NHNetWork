@@ -19,16 +19,16 @@
     "ios": "8.0"
   },
   "public_header_files": [
-    "Source/**/*.h",
-    "Source/*/**/*.h",
-    "Source/*/*/**/*.h",
-    "Source/*/*/*/**/*.h"
+    "NHNetWork/**/*.h",
+    "NHNetWork/*/**/*.h",
+    "NHNetWork/*/*/**/*.h",
+    "NHNetWork/*/*/*/**/*.h"
   ],
   "source_files": [
-    "Source/**",
-    "Source/*/**",
-    "Source/*/*/**",
-    "Source/*/*/*/**"
+    "NHNetWork/**",
+    "NHNetWork/*/**",
+    "NHNetWork/*/*/**",
+    "NHNetWork/*/*/*/**"
   ],
   "resource_bundles": {
     "Asserts": [
