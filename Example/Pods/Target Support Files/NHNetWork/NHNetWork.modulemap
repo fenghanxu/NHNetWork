@@ -1,0 +1,6 @@
+framework module NHNetWork {
+  umbrella header "NHNetWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

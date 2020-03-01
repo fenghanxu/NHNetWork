@@ -1,0 +1,16 @@
+PODS:
+  - NHNetWork (0.1.0)
+
+DEPENDENCIES:
+  - NHNetWork (from `../`)
+
+EXTERNAL SOURCES:
+  NHNetWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NHNetWork: 0026171bd3bb8e1d30c54f75523db66f0095c7e5
+
+PODFILE CHECKSUM: afde01931778ffdc8212bd5ebbaf95196ff4b4d6
+
+COCOAPODS: 1.9.0
